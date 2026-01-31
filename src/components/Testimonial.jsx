@@ -7,7 +7,7 @@ const Testimonial = () => {
 
       <section>
         <TestimonialCard
-          name={"Aashish"}
+          name={"Minakshi"}
           feedback={"Your Web development skills are so good."}
         />
 

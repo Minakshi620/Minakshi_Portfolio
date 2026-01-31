@@ -48,7 +48,7 @@ const Home = ({ ratio }) => {
       <section>
         <div>
           <motion.h1 {...animations.h1}>
-            Hi, I Am <br /> Aashish Jadhav
+            Hi, I Am <br /> Minakshi Punasiya
           </motion.h1>
 
           <Typewriter
@@ -62,7 +62,7 @@ const Home = ({ ratio }) => {
           />
 
           <div>
-            <a href="mailto:aashishjadhav41@gmail.com">Hire Me</a>
+            <a href="mailto:minakshipunasiya9@gmail.com">Hire Me</a>
             <a href="#work">
               Projects <BsArrowUpRight />
             </a>
@@ -99,7 +99,7 @@ const Home = ({ ratio }) => {
 
             <article data-special>
               <p>Contact</p>
-              <span>aashishjadhav41@gmail.com</span>
+              <span>minakshipunasiya9 @gmail.com</span>
             </article>
           </aside>
         </div>

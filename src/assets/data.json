@@ -2,14 +2,14 @@
     "projects": [
       
       {
-        "date": "27/06/2023",
+        "date": "27/06/2025",
         "title": "PORTFOLIO",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "/",
-        "imgSrc": "https://i.postimg.cc/wj8Y4RnZ/2023-06-28.png"
+        "imgSrc": ""
       },
       {
-        "date": "01/06/2023",
+        "date": "01/06/2024",
         "title": "AXCrypto",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "https://axcrypto.vercel.app/",
@@ -17,14 +17,14 @@
       },
   
       {
-        "date": "17/10/2022",
+        "date": "17/10/2023",
         "title": "Amazing Art Website",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "/",
         "imgSrc": "https://i.postimg.cc/4N5jZ1vL/IMG-20230628-004941.jpg"
       },
       {
-        "date": "20/10/2022",
+        "date": "20/10/2023",
         "title": "Gym Website",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "/",
